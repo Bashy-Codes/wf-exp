@@ -1,0 +1,516 @@
+{
+  "screenTitles": {
+    "communityGuidelines": "Community Guidelines",
+    "home": "Home",
+    "discover": "Discover",
+    "friends": "Friends",
+    "requests": "Requests",
+    "conversations": "Conversations",
+    "profile": "Profile",
+    "post": "Post",
+    "thread": "Thread",
+    "createPost": "Create Post",
+    "notifications": "Notifications",
+    "report": "Report",
+    "settings": "Settings",
+    "profileManagement": {
+      "first": "Basic Info",
+      "second": "Languages & Country",
+      "third": "About Me",
+      "fourth": "Travel & Interests",
+      "final": "Finalize"
+    }
+  },
+  "sectionsTitles": {
+    "received": "Received",
+    "sent": "Sent",
+    "friends": "Friends",
+    "requests": "Requests",
+    "profile": "Profile",
+    "posts": "Posts",
+    "collections": "Collections",
+    "photos": "Photos",
+    "home": "Home",
+    "info": "About",
+    "members": "Members",
+    "settings": "Settings",
+    "conversations": "Conversations",
+    "groups": "Groups"
+  },
+  "common": {
+    "continue": "Continue",
+    "send": "Send",
+    "done": "Done",
+    "back": "Back",
+    "close": "Close",
+    "retry": "Retry",
+    "createCollection": "Create Collection",
+    "selected": "Selected",
+    "searchPlaceholder": "Search...",
+    "typeMessage": "Type a message...",
+    "loading": "Loading...",
+    "enterText": "Enter text here...",
+    "reply": "Reply",
+    "view": "View",
+    "genders": {
+      "male": "Male",
+      "female": "Female",
+      "other": "Other"
+    },
+    "emptyState": "No Items Found",
+    "day": "day",
+    "days": "days"
+  },
+  "profile": {
+    "actions": {
+      "settings": {
+        "title": "Settings",
+        "description": "Manage your account and preferences"
+      }
+    },
+    "addFriend": "Add Friend",
+    "pendingRequest": "Pending Request",
+    "items": {
+      "aboutMe": "About Me",
+      "languages": "Languages",
+      "travel": "Travel",
+      "hobbies": "Hobbies",
+      "books": "Books"
+    },
+    "subsections": {
+      "speaking": "Speaking",
+      "learning": "Learning",
+      "visited": "Visited",
+      "wantToVisit": "Want to Visit"
+    },
+    "restriction": {
+      "posts": "You must be friends to view this user's posts",
+      "collections": "You must be friends to view this user's collections",
+      "photos": "You must be friends to view this user's photos"
+    },
+    "restricted": {
+      "title": "Profile Not Accessible",
+      "description": "This profile cannot be viewed. We hope you respect this user's privacy preferences."
+    },
+    "friendRequestModal": {
+      "title": "Friend Request",
+      "description": "Send a friend request to "
+    }
+  },
+  "createPost": {
+    "placeholder": "What's on your mind?",
+    "sections": {
+      "addImages": "Add Images",
+      "addTags": "Add Tags",
+      "selectCollection": "Select Collection"
+    },
+    "infoMessage": "Your posts are only visible to your friends"
+  },
+  "settings": {
+    "sectionTitles": {
+      "profile": "Profile",
+      "preferences": "Preferences",
+      "account": "Account",
+      "platformInfo": "Platform Info"
+    },
+    "editProfile": {
+      "title": "Edit Profile",
+      "description": "Update your profile information and preferences"
+    },
+    "language": {
+      "title": "Language",
+      "description": "Choose your preferred language"
+    },
+    "logout": {
+      "title": "Logout",
+      "description": "Sign out of your account"
+    },
+    "deleteAccount": {
+      "title": "Delete Account",
+      "description": "Permanently delete your account and data"
+    },
+    "platformInfo": {
+      "title": "Platform Info",
+      "description": "Learn more about our platform and guidelines"
+    },
+    "contact": {
+      "title": "Contact Us",
+      "description": "Have questions or need support? Reach out to us!"
+    }
+  },
+  "createProfile": {
+    "basicInfo": {
+      "name": {
+        "label": "Name",
+        "placeholder": "Enter your name "
+      },
+      "username": {
+        "label": "Username",
+        "placeholder": "Choose a username",
+        "available": "Username is available",
+        "taken": "Username is taken"
+      },
+      "birthdate": {
+        "label": "Date of Birth",
+        "placeholder": "Select your birthdate"
+      },
+      "gender": {
+        "label": "Gender"
+      }
+    },
+    "languagesCountry": {
+      "country": {
+        "label": "Country",
+        "placeholder": "Select your country"
+      },
+      "spokenLanguages": {
+        "label": "Languages I Speak",
+        "placeholder": "Select languages you speak"
+      },
+      "learningLanguages": {
+        "label": "Languages I'm Learning",
+        "placeholder": "Select languages you're learning"
+      }
+    },
+    "aboutMe": {
+      "bio": {
+        "label": "About Me",
+        "placeholder": "Tell others about yourself... be creative!"
+      },
+      "hobbies": {
+        "label": "Hobbies & Interests",
+        "placeholder": "What do you enjoy doing?"
+      },
+      "favoriteBooks": {
+        "label": "Favorite Books",
+        "placeholder": "Share your favorite books"
+      },
+      "booksModal": {
+        "title": "Add Favorite Books",
+        "inputPlaceholder": "Type book name..."
+      }
+    },
+    "travelInterests": {
+      "visitedCountries": {
+        "label": "Countries I've Visited",
+        "placeholder": "Select countries you've visited"
+      },
+      "wantToVisitCountries": {
+        "label": "Countries I Want to Visit",
+        "placeholder": "Select countries you want to visit"
+      }
+    },
+    "finalize": {
+      "finalizeTitle": "Almost there 🥳",
+      "genderPreference": {
+        "label": "Gender Preference",
+        "enabled": "Enabled",
+        "disabled": "Disabled",
+        "descriptionEnabled": "You'll only be able to see and be seen by people of your gender",
+        "descriptionDisabled": "You'll be able to see and be seen by people of all genders"
+      },
+      "safetyInfo": {
+        "ageRestriction": "Since you're under 18, older people can't contact and see your profile",
+        "genderPreference": "When gender preference is enabled, you'll only be able to see and be seen by people of your gender"
+      },
+      "profilePicture": {
+        "label": "Profile Picture",
+        "description": "Add a photo to help others recognize you",
+        "addPhoto": "Add Photo",
+        "changePhoto": "Change Photo"
+      }
+    }
+  },
+  "editProfile": {
+    "basicInfo": {
+      "infoMessage": "Some information cannot be changed for safety reasons"
+    }
+  },
+  "report": {
+    "reporting": "Reporting",
+    "user": "User",
+    "post": "Post",
+    "postTitle": "Post Title",
+    "description": "Help us keep our community safe by reporting inappropriate content",
+    "sections": {
+      "issue": "What's the issue?",
+      "details": "Additional Details",
+      "evidence": "Evidence"
+    },
+    "types": {
+      "spam": {
+        "label": "Spam",
+        "description": "Unwanted or repetitive content"
+      },
+      "harassment": {
+        "label": "Harassment",
+        "description": "Bullying or harassment"
+      },
+      "hate_speech": {
+        "label": "Hate Speech",
+        "description": "Hateful or discriminatory content"
+      },
+      "inappropriate_content": {
+        "label": "Inappropriate Content",
+        "description": "Content that violates community guidelines"
+      },
+      "other": {
+        "label": "Other",
+        "description": "Something else"
+      }
+    },
+    "detailsPlaceholder": "Please provide additional details...",
+    "evidenceDescription": "Required: Add a screenshot or other evidence",
+    "addScreenshot": "Add Screenshot",
+    "submitReport": "Submit Report"
+  },
+  "onboarding": {
+    "readGuidelines": "Read Community Guidelines",
+    "globalConnections": {
+      "title": "Global Connections",
+      "description": "Connect with people from around the world"
+    },
+    "languageExchange": {
+      "title": "Language Exchange",
+      "description": "Practice languages with native speakers"
+    },
+    "culturalDiscovery": {
+      "title": "Cultural Discovery",
+      "description": "Learn about different cultures and traditions"
+    }
+  },
+  "guidelinesScreen": {
+    "safeCommunityStandards": "Safe Community Standards",
+    "introDescription": "Welcome to WorldFriends! Please read and accept our community guidelines.",
+    "agreement": "I Accept the community guidelines"
+  },
+  "auth": {
+    "signupTitle": "Create Account",
+    "signupSubTitle": "Join us and start your journey",
+    "loginTitle": "Welcome Back",
+    "loginSubTitle": "Enter your credentials",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "noAccountCTA": "Don't have an account? ",
+    "alreadyHaveAccountCTA": "Already have an account? ",
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "orContinueWith": "Or Continue With",
+    "verifyEmail": "Verify Email",
+    "enterCode": " Enter the 6-digit code sent to"
+  },
+  "collections": {
+    "create": {
+      "title": "New Collection",
+      "placeholder": "Type Collection name..."
+    }
+  },
+  "greetings": {
+    "goodMorning": "Good morning",
+    "goodAfternoon": "Good afternoon",
+    "goodEvening": "Good evening",
+    "goodNight": "Good night"
+  },
+  "filterModal": {
+    "title": "Filters",
+    "country": "Country",
+    "languageSpoken": "Language Spoken",
+    "languageLearning": "Language Learning"
+  },
+  "emptyState": {
+    "notifications": "No notifications yet",
+    "userNotFound": "User not found"
+  },
+  "userCard": {
+    "country": "Country:",
+    "speaks": "Speaks:",
+    "learning": "Learning:"
+  },
+  "threads": {
+    "showReply": "Show reply",
+    "hideReply": "Hide reply",
+    "replyingTo": "Replying to",
+    "writeReply": "Write a reply",
+    "reply": "Reply",
+    "replies": "Replies"
+  },
+  "notifications": {
+    "clearAll": "Clear All",
+    "emptySubtext": "You'll see notifications about friend requests, messages, and other activities here"
+  },
+  "actions": {
+    "writeSomething": "Write Something",
+    "deletePost": "Delete Post",
+    "removeFromCollection": "Remove from Collection",
+    "addToCollection": "Add to Collection",
+    "reportPost": "Report Post",
+    "reportUser": "Report User",
+    "blockUser": "Block User",
+    "removeFriend": "Remove Friend",
+    "deleteConversation": "Delete Conversation",
+    "deleteMessage": "Delete Message",
+    "deleteCollection": "Delete Collection"
+  },
+  "confirmation": {
+    "logout": "Are you sure you want to logout?",
+    "deleteAccount": "Are you sure you want to delete your account? This action cannot be undone.",
+    "removeFriend": "Are you sure you want to remove this friend? ",
+    "deleteComment": "Are you sure you want to delete this comment?",
+    "deleteConversation": "Are you sure you want to delete this conversation? This action cannot be undone.",
+    "deleteMessage": "Are you sure you want to delete this message?",
+    "deleteCollection": "Are you sure you want to delete this collection? This action cannot be undone.",
+    "removeFromCollection": "Are you sure you want to remove this post from the collection?",
+    "deletePost": "Are you sure you want to delete this Post? This action cannot be undone.",
+    "discardPost": "Are you sure you want to discard this post?",
+    "createPost": "Are you ready to share your post with friends?",
+    "blockUser": "Are you sure you want to block this user?",
+    "deleteThread": "Are you sure you want to delete this thread? All replies will be deleted."
+  },
+  "successToasts": {
+    "collectionCreated": "Your collection has been created",
+    "collectionDeleted": "Collection deleted successfully",
+    "postAddedToCollection": "Post has been added to the collection",
+    "postRemovedFromCollection": "Post has been removed from the collection",
+    "languageChanged": "Language preference has been updated",
+    "accountDeleted": "Account has been permanently deleted",
+    "reportSubmitted": "Thank you for helping keep our community safe",
+    "conversationDeleted": "Conversation has been deleted",
+    "postDeleted": "Your Post has been deleted",
+    "subscriptionActivated": "Your Premium subscription is now active",
+    "purchasesRestored": "Your subscription has been restored successfully"
+  },
+  "errorToasts": {
+    "genericError": "Something went wrong. Please try again",
+    "validationError": "Please check your input",
+    "invalidAuthCredentials": "Please check your email and password",
+    "invalidOTP": "Please enter a correct 6-digit code",
+    "postAlreadyInCollection": "This post is already in a collection",
+    "commentFailed": "Failed to post comment. Please try again",
+    "deleteFailed": "Failed to delete. Please try again"
+  },
+  "infoToasts": {
+    "cameraPermission": "Please grant camera permission to take photos",
+    "photoLibraryPermission": "Please grant photo library permission to select photos"
+  },
+  "guidelines": {
+    "first": {
+      "title": "Be Respectful to Others",
+      "description": "Treat all community members with kindness, respect, and dignity. No harassment, bullying, or discriminatory behavior will be tolerated."
+    },
+    "second": {
+      "title": "No Dating or Flirty Behavior",
+      "description": "This platform is designed for friendship and cultural exchange only. Romantic advances or dating requests are not appropriate."
+    },
+    "third": {
+      "title": "No In-Person Meetings",
+      "description": "For your safety, do not arrange to meet other users in person. Keep all interactions within the app's safe environment."
+    },
+    "fourth": {
+      "title": "Protect Personal Information",
+      "description": "Never share personal details like your full name, address, phone number, financial information, or other sensitive data."
+    },
+    "fifth": {
+      "title": "Use Appropriate Language",
+      "description": "Keep conversations clean and family-friendly. Profanity, explicit content, or offensive language is strictly prohibited."
+    },
+    "sixth": {
+      "title": "Report Inappropriate Behavior",
+      "description": "If you encounter any violations of these guidelines, please report them immediately to help maintain a safe community."
+    },
+    "seventh": {
+      "title": "Be Authentic",
+      "description": "Use your real photos and provide honest information about yourself. Fake profiles and catfishing are not allowed."
+    },
+    "eighth": {
+      "title": "Respect Cultural Differences",
+      "description": "Embrace diversity and be open to learning about different cultures, traditions, and perspectives with an open mind."
+    },
+    "ninth": {
+      "title": "No Spam or Self-Promotion",
+      "description": "Don't send repetitive messages, advertisements, or promote external services, websites, or social media accounts."
+    },
+    "tenth": {
+      "title": "Keep Conversations Meaningful",
+      "description": "Engage in genuine conversations focused on friendship, language learning, and cultural exchange rather than superficial interactions."
+    },
+    "eleventh": {
+      "title": "Respect Privacy Settings",
+      "description": "Honor other users' privacy preferences and boundaries. Don't pressure anyone to share more than they're comfortable with."
+    },
+    "twelfth": {
+      "title": "No Commercial Activities",
+      "description": "This platform is not for business transactions, selling products, or any commercial activities. Keep interactions social and friendly."
+    },
+    "thirteenth": {
+      "title": "Use Features Responsibly",
+      "description": "Use all app features as intended. Don't exploit or misuse any functionality for purposes other than genuine friendship building."
+    },
+    "fourteenth": {
+      "title": "Be Patient with Language Learners",
+      "description": "Show understanding and patience when communicating with users who are learning your language. Help them improve with kindness."
+    },
+    "fifteenth": {
+      "title": "No Hate Speech or Discrimination",
+      "description": "Any form of hate speech, racism, sexism, or discrimination based on religion, nationality, or personal characteristics is forbidden."
+    },
+    "sixteenth": {
+      "title": "Maintain Age-Appropriate Interactions",
+      "description": "Ensure all conversations and shared content are appropriate for users of all ages in our diverse community."
+    },
+    "seventeenth": {
+      "title": "No Sharing of External Contacts",
+      "description": "Don't share or request external contact information like email, social media handles, or messaging app details."
+    },
+    "eighteenth": {
+      "title": "Respect Time Zones and Availability",
+      "description": "Be mindful that users are from different time zones. Don't expect immediate responses and respect others' availability."
+    },
+    "nineteenth": {
+      "title": "Keep Photos Appropriate",
+      "description": "Share only appropriate, non-suggestive photos. Profile pictures should clearly show your face and be suitable for all audiences."
+    },
+    "twentieth": {
+      "title": "Follow Local Laws",
+      "description": "Ensure all your activities on the platform comply with local laws and regulations in your country and region."
+    }
+  },
+  "notification": {
+    "friend_request_sent": "{{senderName}} sent you a friend request",
+    "friend_request_accepted": "{{senderName}} accepted your friend request",
+    "friend_request_rejected": "{{senderName}} rejected your friend request",
+    "friend_removed": "{{senderName}} removed you from friends",
+    "conversation_deleted": "{{senderName}} deleted the conversation",
+    "user_blocked": "{{senderName}} has blocked you",
+    "post_reaction": "{{senderName}} reacted to your post",
+    "post_commented": "{{senderName}} commented on your post",
+    "comment_replied": "{{senderName}} replied to your comment"
+  },
+  "time": {
+    "just_now": "Just now",
+    "minute": "minute ago",
+    "minutes": "minutes ago",
+    "hour": "hour ago",
+    "hours": "hours ago",
+    "unit_hours": "hours",
+    "today": "Today",
+    "yesterday": "Yesterday",
+    "tomorrow": "Tomorrow",
+    "days": "days ago",
+    "week": "week ago",
+    "weeks": "weeks ago",
+    "month": "month ago",
+    "months": "months ago",
+    "year": "year ago",
+    "years": "years ago"
+  },
+  "presence": {
+    "online": "Online",
+    "typing": "typing...",
+    "justNow": "Active just now",
+    "minutesAgo": "Active {{count}}m ago",
+    "hoursAgo": "Active {{count}}h ago",
+    "daysAgo": "Active {{count}}d ago",
+    "longTimeAgo": "Active long ago"
+  }
+}

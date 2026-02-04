@@ -1,0 +1,521 @@
+{
+  "screenTitles": {
+    "communityGuidelines": "社区规则",
+    "home": "主页",
+    "discover": "发现",
+    "friends": "好友",
+    "requests": "请求",
+    "conversations": "对话",
+    "profile": "个人资料",
+    "post": "帖子",
+    "createPost": "创建帖子",
+    "notifications": "通知",
+    "report": "举报",
+    "settings": "设置",
+    "composeLetter": "写信",
+    "letters": "信件",
+    "letter": "信件",
+    "profileManagement": {
+      "first": "基本信息",
+      "second": "语言和国家",
+      "third": "关于我",
+      "fourth": "旅行和兴趣",
+      "final": "完成"
+    }
+  },
+  "sectionsTitles": {
+    "received": "收到的",
+    "sent": "发送的",
+    "friends": "好友",
+    "requests": "请求",
+    "profile": "个人资料",
+    "posts": "帖子",
+    "collections": "收藏",
+    "photos": "照片",
+    "home": "主页",
+    "info": "信息",
+    "estimatedTime": "预计旅行时间",
+    "standard": "标准配送",
+    "members": "成员",
+    "settings": "设置"
+  },
+  "common": {
+    "continue": "继续",
+    "send": "发送",
+    "done": "完成",
+    "back": "返回",
+    "close": "关闭",
+    "retry": "重试",
+    "createCollection": "创建收藏",
+    "selected": "已选择",
+    "searchPlaceholder": "搜索...",
+    "typeMessage": "输入消息...",
+    "loading": "加载中...",
+    "enterText": "在此输入文字...",
+    "reply": "回复",
+    "view": "查看",
+    "genders": {
+      "male": "男",
+      "female": "女",
+      "other": "其他"
+    },
+    "emptyState": "未找到项目",
+    "day": "天",
+    "days": "天"
+  },
+  "profile": {
+    "actions": {
+      "settings": {
+        "title": "设置",
+        "description": "管理你的账户和偏好设置"
+      }
+    },
+    "addFriend": "添加好友",
+    "pendingRequest": "待处理的请求",
+    "items": {
+      "aboutMe": "关于我",
+      "languages": "语言",
+      "travel": "旅行",
+      "hobbies": "爱好",
+      "books": "书籍"
+    },
+    "subsections": {
+      "speaking": "会说",
+      "learning": "学习中",
+      "visited": "去过的",
+      "wantToVisit": "想去的"
+    },
+    "restriction": {
+      "posts": "你必须是好友才能查看帖子",
+      "collections": "你必须是好友才能查看收藏",
+      "photos": "你必须是好友才能查看照片"
+    },
+    "restricted": {
+      "title": "个人资料不可访问",
+      "description": "无法查看此个人资料。请尊重用户隐私。"
+    },
+    "friendRequestModal": {
+      "title": "好友请求",
+      "description": "向以下用户发送好友请求 "
+    }
+  },
+  "createPost": {
+    "placeholder": "你在想什么？",
+    "sections": {
+      "addImages": "添加图片",
+      "addTags": "添加标签",
+      "selectCollection": "选择收藏"
+    },
+    "infoMessage": "你的帖子只有好友可见"
+  },
+  "composeLetter": {
+    "letterTitleInput": "信件标题",
+    "inputPlaceholder": "在这里写下你的信... 发挥创意！",
+    "deliverTo": "投递给",
+    "schedule": "计划投递",
+    "deliveryTimeInfo": "你的信件将被投递",
+    "deliveryInPluralDays": "{{scheduleDays}} 天后"
+  },
+  "settings": {
+    "sectionTitles": {
+      "profile": "个人资料",
+      "subscription": "订阅",
+      "preferences": "偏好设置",
+      "account": "账户",
+      "platformInfo": "平台信息"
+    },
+    "editProfile": {
+      "title": "编辑个人资料",
+      "description": "更新你的个人资料信息"
+    },
+    "language": {
+      "title": "语言",
+      "description": "选择你的首选语言"
+    },
+    "logout": {
+      "title": "退出登录",
+      "description": "退出你的账户"
+    },
+    "deleteAccount": {
+      "title": "删除账户",
+      "description": "永久删除你的账户"
+    },
+    "platformInfo": {
+      "title": "平台信息",
+      "description": "了解更多关于我们平台的信息"
+    },
+    "contact": {
+      "title": "联系我们",
+      "description": "有问题？联系我们！"
+    }
+  },
+  "createProfile": {
+    "basicInfo": {
+      "name": {
+        "label": "姓名",
+        "placeholder": "输入你的姓名 "
+      },
+      "username": {
+        "label": "用户名",
+        "placeholder": "选择用户名",
+        "available": "用户名可用",
+        "taken": "用户名已被使用"
+      },
+      "birthdate": {
+        "label": "生日",
+        "placeholder": "选择你的生日"
+      },
+      "gender": {
+        "label": "性别"
+      }
+    },
+    "languagesCountry": {
+      "country": {
+        "label": "国家",
+        "placeholder": "选择你的国家"
+      },
+      "spokenLanguages": {
+        "label": "我会说的语言",
+        "placeholder": "选择你会说的语言"
+      },
+      "learningLanguages": {
+        "label": "我正在学习的语言",
+        "placeholder": "选择你正在学习的语言"
+      }
+    },
+    "aboutMe": {
+      "bio": {
+        "label": "关于我",
+        "placeholder": "向别人介绍自己...发挥创意！"
+      },
+      "hobbies": {
+        "label": "爱好和兴趣",
+        "placeholder": "你喜欢做什么？"
+      },
+      "favoriteBooks": {
+        "label": "最爱的书籍",
+        "placeholder": "分享你最爱的书籍"
+      },
+      "booksModal": {
+        "title": "添加最爱书籍",
+        "inputPlaceholder": "输入书名..."
+      }
+    },
+    "travelInterests": {
+      "visitedCountries": {
+        "label": "我去过的国家",
+        "placeholder": "选择你去过的国家"
+      },
+      "wantToVisitCountries": {
+        "label": "我想去的国家",
+        "placeholder": "选择你想去的国家"
+      }
+    },
+    "finalize": {
+      "finalizeTitle": "快完成了 🥳",
+      "genderPreference": {
+        "label": "性别偏好",
+        "enabled": "启用",
+        "disabled": "禁用",
+        "descriptionEnabled": "你只能看到和被同性别的人看到",
+        "descriptionDisabled": "你可以看到和被所有性别的人看到"
+      },
+      "safetyInfo": {
+        "ageRestriction": "由于你未满18岁，年龄较大的人无法联系你或查看你的资料",
+        "genderPreference": "启用性别偏好后，你只能看到同性别的人"
+      },
+      "profilePicture": {
+        "label": "头像",
+        "description": "添加照片帮助他人认识你",
+        "addPhoto": "添加照片",
+        "changePhoto": "更换照片"
+      }
+    }
+  },
+  "editProfile": {
+    "basicInfo": {
+      "infoMessage": "出于安全原因，某些信息无法更改"
+    }
+  },
+  "report": {
+    "reporting": "举报",
+    "user": "用户",
+    "post": "动态",
+    "postTitle": "动态标题",
+    "description": "通过举报不当内容帮助我们保持社区安全",
+    "sections": {
+      "issue": "有什么问题？",
+      "details": "详细说明",
+      "evidence": "证据"
+    },
+    "types": {
+      "spam": {
+        "label": "垃圾信息",
+        "description": "不需要的或重复的内容"
+      },
+      "harassment": {
+        "label": "骚扰",
+        "description": "欺凌或骚扰行为"
+      },
+      "hate_speech": {
+        "label": "仇恨言论",
+        "description": "仇恨或歧视性内容"
+      },
+      "inappropriate_content": {
+        "label": "不当内容",
+        "description": "违反社区准则的内容"
+      },
+      "other": {
+        "label": "其他",
+        "description": "其他问题"
+      }
+    },
+    "detailsPlaceholder": "请提供详细说明...",
+    "evidenceDescription": "必填：添加截图或其他证据",
+    "addScreenshot": "添加截图",
+    "submitReport": "提交举报"
+  },
+  "onboarding": {
+    "readGuidelines": "阅读社区规则",
+    "globalConnections": {
+      "title": "全球连接",
+      "description": "与世界各地的人建立联系"
+    },
+    "languageExchange": {
+      "title": "语言交换",
+      "description": "与母语者练习语言"
+    },
+    "culturalDiscovery": {
+      "title": "文化发现",
+      "description": "了解不同的文化和传统"
+    }
+  },
+  "guidelinesScreen": {
+    "safeCommunityStandards": "安全社区标准",
+    "introDescription": "欢迎来到 WorldFriends！请阅读并接受我们的社区规则。",
+    "agreement": "我接受社区规则"
+  },
+  "auth": {
+    "signupTitle": "创建账户",
+    "signupSubTitle": "加入我们，开始你的旅程",
+    "loginTitle": "欢迎回来",
+    "loginSubTitle": "输入你的凭据",
+    "email": "邮箱",
+    "password": "密码",
+    "confirmPassword": "确认密码",
+    "noAccountCTA": "还没有账户？",
+    "alreadyHaveAccountCTA": "已有账户？",
+    "signIn": "登录",
+    "signUp": "注册",
+    "orContinueWith": "或继续使用",
+    "verifyEmail": "验证邮箱",
+    "enterCode": "输入发送至的 6 位验证码"
+  },
+  "collections": {
+    "create": {
+      "title": "新收藏",
+      "placeholder": "输入收藏名称..."
+    }
+  },
+  "greetings": {
+    "goodMorning": "早上好",
+    "goodAfternoon": "下午好",
+    "goodEvening": "晚上好",
+    "goodNight": "晚安"
+  },
+  "filterModal": {
+    "title": "筛选",
+    "country": "国家",
+    "languageSpoken": "使用语言",
+    "languageLearning": "学习语言"
+  },
+  "emptyState": {
+    "notifications": "暂无通知",
+    "userNotFound": "未找到用户"
+  },
+  "userCard": {
+    "country": "国家：",
+    "speaks": "会说：",
+    "learning": "学习中："
+  },
+  "threads": {
+    "showReply": "显示回复",
+    "hideReply": "隐藏回复",
+    "replyingTo": "回复给",
+    "writeReply": "写回复",
+    "reply": "回复"
+  },
+  "notifications": {
+    "clearAll": "全部清除",
+    "emptySubtext": "你将在这里看到有关好友请求、消息和其他活动的通知"
+  },
+  "actions": {
+    "composeLetter": "写信",
+    "writeSomething": "写点什么",
+    "deletePost": "删除帖子",
+    "removeFromCollection": "从收藏中移除",
+    "addToCollection": "添加到收藏",
+    "reportPost": "举报帖子",
+    "reportUser": "举报用户",
+    "blockUser": "屏蔽用户",
+    "removeFriend": "删除好友",
+    "deleteConversation": "删除对话",
+    "deleteMessage": "删除消息",
+    "deleteLetter": "删除信件",
+    "deleteCollection": "删除收藏"
+  },
+  "confirmation": {
+    "logout": "确定要退出登录吗？",
+    "deleteAccount": "确定要删除你的账户吗？此操作无法撤销。",
+    "removeFriend": "确定要删除这位好友吗？",
+    "deleteComment": "确定要删除此评论吗？",
+    "deleteConversation": "确定要删除此对话吗？此操作无法撤销。",
+    "deleteMessage": "确定要删除此消息吗？",
+    "deleteCollection": "确定要删除此收藏吗？此操作无法撤销。",
+    "removeFromCollection": "确定要从收藏中移除此帖子吗？",
+    "deletePost": "确定要删除此帖子吗？此操作无法撤销。",
+    "discardPost": "确定要放弃此帖子吗？",
+    "createPost": "准备好与好友分享你的帖子了吗？",
+    "blockUser": "确定要屏蔽此用户吗？",
+    "discardLetter": "确定要放弃这封信吗？你的所有进度将丢失。",
+    "sendLetter": "此信件将被投递给 {{countryFlag}} 的 {{name}}",
+    "deleteThread": "确定要删除此主题吗？所有回复将被删除。"
+  },
+  "successToasts": {
+    "collectionCreated": "你的收藏已创建",
+    "collectionDeleted": "收藏已成功删除",
+    "postAddedToCollection": "帖子已添加到收藏",
+    "postRemovedFromCollection": "帖子已从收藏中移除",
+    "letterDeleted": "信件已成功删除",
+    "languageChanged": "语言偏好已更新",
+    "accountDeleted": "账户已永久删除",
+    "reportSubmitted": "感谢你帮助保持社区安全",
+    "conversationDeleted": "对话已删除",
+    "postDeleted": "你的帖子已删除",
+    "subscriptionActivated": "你的高级订阅现已激活",
+    "purchasesRestored": "你的订阅已成功恢复"
+  },
+  "errorToasts": {
+    "genericError": "出了点问题，请重试",
+    "validationError": "请检查你的输入",
+    "invalidAuthCredentials": "请检查你的邮箱和密码",
+    "invalidOTP": "请输入正确的 6 位验证码",
+    "postAlreadyInCollection": "此帖子已在收藏中"
+  },
+  "infoToasts": {
+    "cameraPermission": "请授予相机权限以拍照",
+    "photoLibraryPermission": "请授予相册权限以选择照片"
+  },
+  "guidelines": {
+    "first": {
+      "title": "尊重他人",
+      "description": "以善意、尊重和尊严对待所有社区成员。不容忍骚扰、霸凌或歧视行为。"
+    },
+    "second": {
+      "title": "禁止约会或调情行为",
+      "description": "此平台专为友谊和文化交流而设计。浪漫进展或约会请求是不合适的。"
+    },
+    "third": {
+      "title": "禁止线下见面",
+      "description": "为了您的安全，请勿安排与其他用户的线下见面。保持所有互动在应用程序的安全环境中。"
+    },
+    "fourth": {
+      "title": "保护个人信息",
+      "description": "切勿分享个人详细信息，如全名、地址、电话号码、财务信息或其他敏感数据。"
+    },
+    "fifth": {
+      "title": "使用适当的语言",
+      "description": "保持对话干净和适合家庭。严格禁止使用脏话、露骨内容或攻击性语言。"
+    },
+    "sixth": {
+      "title": "举报不当行为",
+      "description": "如果您遇到违反这些指导原则的行为，请立即举报以帮助维护安全的社区。"
+    },
+    "seventh": {
+      "title": "保持真实",
+      "description": "使用真实照片并提供关于自己的诚实信息。不允许虚假个人资料和钓鱼行为。"
+    },
+    "eighth": {
+      "title": "尊重文化差异",
+      "description": "拥抱多样性，敞开心扉学习不同的文化、传统和观点。"
+    },
+    "ninth": {
+      "title": "禁止垃圾信息或自我推广",
+      "description": "不要发送重复消息、广告或推广外部服务、网站或社交媒体账户。"
+    },
+    "tenth": {
+      "title": "保持有意义的对话",
+      "description": "参与专注于友谊、语言学习和文化交流的真诚对话，而不是肤浅的互动。"
+    },
+    "eleventh": {
+      "title": "尊重隐私设置",
+      "description": "尊重其他用户的隐私偏好和界限。不要强迫任何人分享超出他们舒适范围的内容。"
+    },
+    "twelfth": {
+      "title": "禁止商业活动",
+      "description": "此平台不用于商业交易、销售产品或任何商业活动。保持互动的社交性和友好性。"
+    },
+    "thirteenth": {
+      "title": "负责任地使用功能",
+      "description": "按预期使用所有应用功能。不要为了真正的友谊建立以外的目的而利用或滥用任何功能。"
+    },
+    "fourteenth": {
+      "title": "对语言学习者要有耐心",
+      "description": "与学习您语言的用户交流时，要表现出理解和耐心。善意地帮助他们改进。"
+    },
+    "fifteenth": {
+      "title": "禁止仇恨言论或歧视",
+      "description": "严禁基于宗教、国籍或个人特征的任何形式的仇恨言论、种族主义、性别歧视或歧视。"
+    },
+    "sixteenth": {
+      "title": "维持年龄适宜的互动",
+      "description": "确保所有对话和分享的内容都适合我们多样化社区中的所有年龄用户。"
+    },
+    "seventeenth": {
+      "title": "禁止分享外部联系方式",
+      "description": "不要分享或请求外部联系信息，如电子邮件、社交媒体账号或消息应用详细信息。"
+    },
+    "eighteenth": {
+      "title": "尊重时区和可用性",
+      "description": "记住用户来自不同时区。不要期望立即回复，尊重他人的可用时间。"
+    },
+    "nineteenth": {
+      "title": "保持照片适当",
+      "description": "只分享适当的、非暗示性的照片。个人资料照片应清晰显示您的面部，适合所有观众。"
+    },
+    "twentieth": {
+      "title": "遵守当地法律",
+      "description": "确保您在平台上的所有活动都符合您所在国家和地区的当地法律法规。"
+    }
+  },
+  "notification": {
+    "friend_request_sent": "{{senderName}} 向你发送了好友请求",
+    "friend_request_accepted": "{{senderName}} 接受了你的好友请求",
+    "friend_request_rejected": "{{senderName}} 拒绝了你的好友请求",
+    "friend_removed": "{{senderName}} 将你从好友中移除",
+    "conversation_deleted": "{{senderName}} 删除了对话",
+    "user_blocked": "{{senderName}} 屏蔽了你",
+    "post_reaction": "{{senderName}} 对你的帖子做出了反应",
+    "post_commented": "{{senderName}} 评论了你的帖子",
+    "comment_replied": "{{senderName}} 回复了你的评论",
+    "letter_scheduled": "你将收到来自 {{country}} 的 {{senderName}} 的信件"
+  },
+  "time": {
+    "just_now": "刚刚",
+    "minute": "1 分钟前",
+    "minutes": "分钟前",
+    "hour": "1 小时前",
+    "hours": "小时前",
+    "unit_hours": "小时",
+    "today": "今天",
+    "yesterday": "昨天",
+    "tomorrow": "明天",
+    "days": "天前",
+    "week": "1 周前",
+    "weeks": "周前",
+    "month": "1 个月前",
+    "months": "个月前",
+    "year": "1 年前",
+    "years": "年前"
+  }
+}

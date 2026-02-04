@@ -1,0 +1,44 @@
+{
+  "cli": {
+    "version": ">= 16.18.1",
+    "appVersionSource": "remote"
+  },
+  "build": {
+    "development": {
+      "developmentClient": true,
+      "distribution": "internal",
+      "env": {
+        "EXPO_PUBLIC_CONVEX_URL": "${EXPO_PUBLIC_CONVEX_URL}",
+        "AUTH_RESEND_KEY": "${AUTH_RESEND_KEY}",
+        "CONVEX_DEPLOYMENT": "${CONVEX_DEPLOYMENT}"
+      }
+    },
+    "preview": {
+      "distribution": "internal",
+      "env": {
+        "EXPO_PUBLIC_CONVEX_URL": "${EXPO_PUBLIC_CONVEX_URL}",
+        "AUTH_RESEND_KEY": "${AUTH_RESEND_KEY}",
+        "CONVEX_DEPLOYMENT": "${CONVEX_DEPLOYMENT}"
+      }
+    },
+    "production": {
+      "autoIncrement": true,
+      "env": {
+        "EXPO_PUBLIC_CONVEX_URL": "${EXPO_PUBLIC_CONVEX_URL}",
+        "AUTH_RESEND_KEY": "${AUTH_RESEND_KEY}",
+        "CONVEX_DEPLOYMENT": "${CONVEX_DEPLOYMENT}",
+        "EXPO_PUBLIC_REVENUECAT_GOOGLE_KEY": "${EXPO_PUBLIC_REVENUECAT_GOOGLE_KEY}",
+        "EXPO_PUBLIC_SENTRY_DSN": "${EXPO_PUBLIC_SENTRY_DSN}",
+        "SENTRY_AUTH_TOKEN": "${SENTRY_AUTH_TOKEN}"
+      }
+    }
+  },
+  "submit": {
+    "production": {
+      "android": {
+        "serviceAccountKeyPath": "./worldfriends-google-service.json",
+        "track": "internal"
+      }
+    }
+  }
+}

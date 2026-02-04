@@ -1,0 +1,10 @@
+{
+	"servers": {
+		"my-mcp-server-adced36f": {
+			"type": "stdio",
+			"command": "s",
+			"args": []
+		}
+	},
+	"inputs": []
+}

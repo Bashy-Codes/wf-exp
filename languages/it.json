@@ -1,0 +1,516 @@
+{
+  "screenTitles": {
+    "communityGuidelines": "Linee guida della comunità",
+    "home": "Home",
+    "discover": "Scopri",
+    "friends": "Amici",
+    "requests": "Richieste",
+    "conversations": "Conversazioni",
+    "profile": "Profilo",
+    "post": "Post",
+    "createPost": "Crea Post",
+    "notifications": "Notifiche",
+    "report": "Segnala",
+    "settings": "Impostazioni",
+    "composeLetter": "Scrivi Lettera",
+    "letters": "Lettere",
+    "letter": "Lettera",
+    "profileManagement": {
+      "first": "Info Base",
+      "second": "Lingue e Paese",
+      "third": "Su di Me",
+      "fourth": "Viaggi e Interessi",
+      "final": "Finalizza"
+    }
+  },
+  "sectionsTitles": {
+    "received": "Ricevute",
+    "sent": "Inviate",
+    "friends": "Amici",
+    "requests": "Richieste",
+    "profile": "Profilo",
+    "posts": "Post",
+    "collections": "Collezioni",
+    "photos": "Foto",
+    "home": "Home",
+    "info": "Info",
+    "members": "Membri",
+    "settings": "Impostazioni"
+  },
+  "common": {
+    "continue": "Continua",
+    "send": "Invia",
+    "done": "Fatto",
+    "back": "Indietro",
+    "close": "Chiudi",
+    "retry": "Riprova",
+    "createCollection": "Crea Collezione",
+    "selected": "Selezionato",
+    "searchPlaceholder": "Cerca...",
+    "typeMessage": "Scrivi un messaggio...",
+    "loading": "Caricamento...",
+    "enterText": "Inserisci testo qui...",
+    "reply": "Rispondi",
+    "view": "Visualizza",
+    "genders": {
+      "male": "Maschio",
+      "female": "Femmina",
+      "other": "Altro"
+    },
+    "estimatedTime": "Tempo di viaggio stimato",
+    "standard": "Consegna standard",
+    "emptyState": "Nessun elemento trovato",
+    "day": "giorno",
+    "days": "giorni"
+  },
+  "profile": {
+    "actions": {
+      "settings": {
+        "title": "Impostazioni",
+        "description": "Gestisci il tuo account e le preferenze"
+      }
+    },
+    "addFriend": "Aggiungi Amico",
+    "pendingRequest": "Richiesta in Sospeso",
+    "items": {
+      "aboutMe": "Su di Me",
+      "languages": "Lingue",
+      "travel": "Viaggi",
+      "hobbies": "Hobby",
+      "books": "Libri"
+    },
+    "subsections": {
+      "speaking": "Parlate",
+      "learning": "In Apprendimento",
+      "visited": "Visitati",
+      "wantToVisit": "Voglio Visitare"
+    },
+    "restriction": {
+      "posts": "Devi essere amico per vedere i post",
+      "collections": "Devi essere amico per vedere le collezioni",
+      "photos": "Devi essere amico per vedere le foto"
+    },
+    "restricted": {
+      "title": "Profilo Non Accessibile",
+      "description": "Questo profilo non può essere visualizzato. Rispetta la privacy dell'utente."
+    },
+    "friendRequestModal": {
+      "title": "Richiesta di Amicizia",
+      "description": "Invia richiesta di amicizia a "
+    }
+  },
+  "createPost": {
+    "placeholder": "A cosa stai pensando?",
+    "sections": {
+      "addImages": "Aggiungi Immagini",
+      "addTags": "Aggiungi Tag",
+      "selectCollection": "Seleziona Collezione"
+    },
+    "infoMessage": "I tuoi post sono visibili solo ai tuoi amici"
+  },
+  "composeLetter": {
+    "letterTitleInput": "Titolo Lettera",
+    "inputPlaceholder": "Scrivi la tua lettera qui... sii creativo!",
+    "deliverTo": "Consegna a",
+    "schedule": "Programma Consegna",
+    "deliveryTimeInfo": "La tua lettera sarà consegnata",
+    "deliveryInPluralDays": "tra {{scheduleDays}} giorni"
+  },
+  "settings": {
+    "sectionTitles": {
+      "profile": "Profilo",
+      "preferences": "Preferenze",
+      "account": "Account",
+      "platformInfo": "Info Piattaforma"
+    },
+    "editProfile": {
+      "title": "Modifica Profilo",
+      "description": "Aggiorna le informazioni del profilo"
+    },
+    "language": {
+      "title": "Lingua",
+      "description": "Scegli la tua lingua preferita"
+    },
+    "logout": {
+      "title": "Disconnetti",
+      "description": "Esci dal tuo account"
+    },
+    "deleteAccount": {
+      "title": "Elimina Account",
+      "description": "Elimina permanentemente il tuo account"
+    },
+    "platformInfo": {
+      "title": "Info Piattaforma",
+      "description": "Scopri di più sulla nostra piattaforma"
+    },
+    "contact": {
+      "title": "Contattaci",
+      "description": "Hai domande? Contattaci!"
+    }
+  },
+  "createProfile": {
+    "basicInfo": {
+      "name": {
+        "label": "Nome",
+        "placeholder": "Inserisci il tuo nome "
+      },
+      "username": {
+        "label": "Nome utente",
+        "placeholder": "Scegli un nome utente",
+        "available": "Nome utente disponibile",
+        "taken": "Nome utente già preso"
+      },
+      "birthdate": {
+        "label": "Data di nascita",
+        "placeholder": "Seleziona la tua data di nascita"
+      },
+      "gender": {
+        "label": "Genere"
+      }
+    },
+    "languagesCountry": {
+      "country": {
+        "label": "Paese",
+        "placeholder": "Seleziona il tuo paese"
+      },
+      "spokenLanguages": {
+        "label": "Lingue che parlo",
+        "placeholder": "Seleziona le lingue che parli"
+      },
+      "learningLanguages": {
+        "label": "Lingue che sto imparando",
+        "placeholder": "Seleziona le lingue che stai imparando"
+      }
+    },
+    "aboutMe": {
+      "bio": {
+        "label": "Chi sono",
+        "placeholder": "Racconta agli altri di te... sii creativo!"
+      },
+      "hobbies": {
+        "label": "Hobby e interessi",
+        "placeholder": "Cosa ti piace fare?"
+      },
+      "favoriteBooks": {
+        "label": "Libri preferiti",
+        "placeholder": "Condividi i tuoi libri preferiti"
+      },
+      "booksModal": {
+        "title": "Aggiungi libri preferiti",
+        "inputPlaceholder": "Scrivi nome del libro..."
+      }
+    },
+    "travelInterests": {
+      "visitedCountries": {
+        "label": "Paesi che ho visitato",
+        "placeholder": "Seleziona i paesi che hai visitato"
+      },
+      "wantToVisitCountries": {
+        "label": "Paesi che voglio visitare",
+        "placeholder": "Seleziona i paesi che vuoi visitare"
+      }
+    },
+    "finalize": {
+      "finalizeTitle": "Quasi finito 🥳",
+      "genderPreference": {
+        "label": "Preferenza di genere",
+        "enabled": "Abilitato",
+        "disabled": "Disabilitato",
+        "descriptionEnabled": "Potrai vedere ed essere visto solo da persone del tuo genere",
+        "descriptionDisabled": "Potrai vedere ed essere visto da persone di tutti i generi"
+      },
+      "safetyInfo": {
+        "ageRestriction": "Dato che hai meno di 18 anni, le persone più grandi non possono contattarti e vedere il tuo profilo",
+        "genderPreference": "Quando la preferenza di genere è abilitata, vedrai solo persone del tuo genere"
+      },
+      "profilePicture": {
+        "label": "Foto profilo",
+        "description": "Aggiungi una foto per aiutare gli altri a riconoscerti",
+        "addPhoto": "Aggiungi foto",
+        "changePhoto": "Cambia foto"
+      }
+    }
+  },
+  "editProfile": {
+    "basicInfo": {
+      "infoMessage": "Alcune informazioni non possono essere modificate per motivi di sicurezza"
+    }
+  },
+  "report": {
+    "reporting": "Segnalazione",
+    "user": "Utente",
+    "post": "Post",
+    "postTitle": "Titolo post",
+    "description": "Aiutaci a mantenere la nostra comunità sicura segnalando contenuti inappropriati",
+    "sections": {
+      "issue": "Qual è il problema?",
+      "details": "Dettagli aggiuntivi",
+      "evidence": "Prova"
+    },
+    "types": {
+      "spam": {
+        "label": "Spam",
+        "description": "Contenuto indesiderato o ripetitivo"
+      },
+      "harassment": {
+        "label": "Molestie",
+        "description": "Bullismo o molestie"
+      },
+      "hate_speech": {
+        "label": "Discorso d'odio",
+        "description": "Contenuto pieno di odio o discriminatorio"
+      },
+      "inappropriate_content": {
+        "label": "Contenuto inappropriato",
+        "description": "Contenuto che viola le regole della comunità"
+      },
+      "other": {
+        "label": "Altro",
+        "description": "Qualcos'altro"
+      }
+    }
+  },
+  "onboarding": {
+    "readGuidelines": "Leggi le Linee Guida della Comunità",
+    "globalConnections": {
+      "title": "Connessioni Globali",
+      "description": "Connettiti con persone da tutto il mondo"
+    },
+    "languageExchange": {
+      "title": "Scambio Linguistico",
+      "description": "Pratica lingue con i madrelingua"
+    },
+    "culturalDiscovery": {
+      "title": "Scoperta Culturale",
+      "description": "Scopri diverse culture e tradizioni"
+    }
+  },
+  "guidelinesScreen": {
+    "safeCommunityStandards": "Standard di Comunità Sicura",
+    "introDescription": "Benvenuto su WorldFriends! Leggi e accetta le nostre linee guida.",
+    "agreement": "Accetto le linee guida della comunità"
+  },
+  "auth": {
+    "signupTitle": "Crea Account",
+    "signupSubTitle": "Unisciti a noi e inizia il tuo viaggio",
+    "loginTitle": "Bentornato",
+    "loginSubTitle": "Inserisci le tue credenziali",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Conferma Password",
+    "noAccountCTA": "Non hai un account? ",
+    "alreadyHaveAccountCTA": "Hai già un account? ",
+    "signIn": "Accedi",
+    "signUp": "Registrati",
+    "orContinueWith": "Oppure Continua Con",
+    "verifyEmail": "Verifica Email",
+    "enterCode": "Inserisci il codice a 6 cifre inviato a"
+  },
+  "collections": {
+    "create": {
+      "title": "Nuova Collezione",
+      "placeholder": "Scrivi il nome della collezione..."
+    }
+  },
+  "greetings": {
+    "goodMorning": "Buongiorno",
+    "goodAfternoon": "Buon pomeriggio",
+    "goodEvening": "Buonasera",
+    "goodNight": "Buonanotte"
+  },
+  "filterModal": {
+    "title": "Filtri",
+    "country": "Paese",
+    "languageSpoken": "Lingua Parlata",
+    "languageLearning": "Lingua in Apprendimento"
+  },
+  "emptyState": {
+    "notifications": "Nessuna notifica ancora",
+    "userNotFound": "Utente non trovato"
+  },
+  "userCard": {
+    "country": "Paese:",
+    "speaks": "Parla:",
+    "learning": "Sta imparando:"
+  },
+  "threads": {
+    "showReply": "Mostra risposta",
+    "hideReply": "Nascondi risposta",
+    "replyingTo": "Risposta a",
+    "writeReply": "Scrivi una risposta",
+    "reply": "Rispondi"
+  },
+  "notifications": {
+    "clearAll": "Cancella Tutto",
+    "emptySubtext": "Qui vedrai notifiche su richieste di amicizia, messaggi e altre attività"
+  },
+  "actions": {
+    "composeLetter": "Scrivi Lettera",
+    "writeSomething": "Scrivi Qualcosa",
+    "deletePost": "Elimina Post",
+    "removeFromCollection": "Rimuovi dalla Collezione",
+    "addToCollection": "Aggiungi alla Collezione",
+    "reportPost": "Segnala Post",
+    "reportUser": "Segnala Utente",
+    "blockUser": "Blocca Utente",
+    "removeFriend": "Rimuovi Amico",
+    "deleteConversation": "Elimina Conversazione",
+    "deleteMessage": "Elimina Messaggio",
+    "deleteLetter": "Elimina Lettera",
+    "deleteCollection": "Elimina Collezione"
+  },
+  "confirmation": {
+    "logout": "Sei sicuro di voler disconnetterti?",
+    "deleteAccount": "Sei sicuro di voler eliminare il tuo account? Questa azione non può essere annullata.",
+    "removeFriend": "Sei sicuro di voler rimuovere questo amico?",
+    "deleteComment": "Sei sicuro di voler eliminare questo commento?",
+    "deleteConversation": "Sei sicuro di voler eliminare questa conversazione? Questa azione non può essere annullata.",
+    "deleteMessage": "Sei sicuro di voler eliminare questo messaggio?",
+    "deleteCollection": "Sei sicuro di voler eliminare questa collezione? Questa azione non può essere annullata.",
+    "removeFromCollection": "Sei sicuro di voler rimuovere questo post dalla collezione?",
+    "deletePost": "Sei sicuro di voler eliminare questo post? Questa azione non può essere annullata.",
+    "discardPost": "Sei sicuro di voler scartare questo post?",
+    "createPost": "Sei pronto a condividere il tuo post con gli amici?",
+    "blockUser": "Sei sicuro di voler bloccare questo utente?",
+    "discardLetter": "Sei sicuro di voler scartare questa lettera? Tutti i progressi saranno persi.",
+    "sendLetter": "Questa lettera sarà consegnata a {{name}} in {{countryFlag}}",
+    "deleteThread": "Sei sicuro di voler eliminare questo thread? Tutte le risposte saranno eliminate."
+  },
+  "successToasts": {
+    "collectionCreated": "La tua collezione è stata creata",
+    "collectionDeleted": "Collezione eliminata con successo",
+    "postAddedToCollection": "Post aggiunto alla collezione",
+    "postRemovedFromCollection": "Post rimosso dalla collezione",
+    "letterDeleted": "Lettera eliminata con successo",
+    "languageChanged": "Preferenza lingua aggiornata",
+    "accountDeleted": "Account eliminato permanentemente",
+    "reportSubmitted": "Grazie per aiutarci a mantenere la comunità sicura",
+    "conversationDeleted": "Conversazione eliminata",
+    "postDeleted": "Il tuo post è stato eliminato",
+    "subscriptionActivated": "Il tuo abbonamento Premium è ora attivo",
+    "purchasesRestored": "Il tuo abbonamento è stato ripristinato con successo"
+  },
+  "errorToasts": {
+    "genericError": "Qualcosa è andato storto. Riprova",
+    "validationError": "Controlla il tuo input",
+    "invalidAuthCredentials": "Controlla la tua email e password",
+    "invalidOTP": "Inserisci un codice a 6 cifre corretto",
+    "postAlreadyInCollection": "Questo post è già in una collezione"
+  },
+  "infoToasts": {
+    "cameraPermission": "Concedi l'accesso alla fotocamera per scattare foto",
+    "photoLibraryPermission": "Concedi l'accesso alla galleria per selezionare foto"
+  },
+  "guidelines": {
+    "first": {
+      "title": "Sii Rispettoso verso gli Altri",
+      "description": "Tratta tutti i membri della community con gentilezza, rispetto e dignità. Non saranno tollerati molestie, bullismo o comportamenti discriminatori."
+    },
+    "second": {
+      "title": "Niente Appuntamenti o Comportamenti Flirtanti",
+      "description": "Questa piattaforma è progettata solo per amicizia e scambio culturale. Approcci romantici o richieste di appuntamenti non sono appropriati."
+    },
+    "third": {
+      "title": "Nessun Incontro di Persona",
+      "description": "Per la tua sicurezza, non organizzare incontri di persona con altri utenti. Mantieni tutte le interazioni nell'ambiente sicuro dell'app."
+    },
+    "fourth": {
+      "title": "Proteggi le Informazioni Personali",
+      "description": "Non condividere mai dettagli personali come nome completo, indirizzo, numero di telefono, informazioni finanziarie o altri dati sensibili."
+    },
+    "fifth": {
+      "title": "Usa un Linguaggio Appropriato",
+      "description": "Mantieni le conversazioni pulite e adatte alle famiglie. Parolacce, contenuti espliciti o linguaggio offensivo sono severamente vietati."
+    },
+    "sixth": {
+      "title": "Segnala Comportamenti Inappropriati",
+      "description": "Se incontri violazioni di queste linee guida, segnalale immediatamente per aiutare a mantenere una community sicura."
+    },
+    "seventh": {
+      "title": "Sii Autentico",
+      "description": "Usa le tue foto reali e fornisci informazioni oneste su di te. Profili falsi e catfishing non sono consentiti."
+    },
+    "eighth": {
+      "title": "Rispetta le Differenze Culturali",
+      "description": "Abbraccia la diversità e sii aperto ad imparare su culture, tradizioni e prospettive diverse con mente aperta."
+    },
+    "ninth": {
+      "title": "Niente Spam o Auto-Promozione",
+      "description": "Non inviare messaggi ripetitivi, pubblicità o promuovere servizi esterni, siti web o account social media."
+    },
+    "tenth": {
+      "title": "Mantieni le Conversazioni Significative",
+      "description": "Impegnati in conversazioni genuine focalizzate su amicizia, apprendimento linguistico e scambio culturale piuttosto che interazioni superficiali."
+    },
+    "eleventh": {
+      "title": "Rispetta le Impostazioni di Privacy",
+      "description": "Onora le preferenze di privacy e i limiti degli altri utenti. Non pressare nessuno a condividere più di quanto si senta a proprio agio."
+    },
+    "twelfth": {
+      "title": "Nessuna Attività Commerciale",
+      "description": "Questa piattaforma non è per transazioni commerciali, vendita di prodotti o attività commerciali. Mantieni le interazioni sociali e amichevoli."
+    },
+    "thirteenth": {
+      "title": "Usa le Funzionalità Responsabilmente",
+      "description": "Usa tutte le funzionalità dell'app come previsto. Non sfruttare o abusare di nessuna funzionalità per scopi diversi dalla costruzione di amicizie genuine."
+    },
+    "fourteenth": {
+      "title": "Sii Paziente con Chi Impara le Lingue",
+      "description": "Mostra comprensione e pazienza quando comunichi con utenti che stanno imparando la tua lingua. Aiutali a migliorare con gentilezza."
+    },
+    "fifteenth": {
+      "title": "Niente Discorsi d'Odio o Discriminazione",
+      "description": "Qualsiasi forma di discorso d'odio, razzismo, sessismo o discriminazione basata su religione, nazionalità o caratteristiche personali è vietata."
+    },
+    "sixteenth": {
+      "title": "Mantieni Interazioni Appropriate per l'Età",
+      "description": "Assicurati che tutte le conversazioni e i contenuti condivisi siano appropriati per utenti di tutte le età nella nostra community diversificata."
+    },
+    "seventeenth": {
+      "title": "Non Condividere Contatti Esterni",
+      "description": "Non condividere o richiedere informazioni di contatto esterne come email, handle social media o dettagli di app di messaggistica."
+    },
+    "eighteenth": {
+      "title": "Rispetta Fusi Orari e Disponibilità",
+      "description": "Ricorda che gli utenti provengono da fusi orari diversi. Non aspettarti risposte immediate e rispetta la disponibilità degli altri."
+    },
+    "nineteenth": {
+      "title": "Mantieni le Foto Appropriate",
+      "description": "Condividi solo foto appropriate e non suggestive. Le foto del profilo dovrebbero mostrare chiaramente il tuo viso ed essere adatte a tutti i pubblici."
+    },
+    "twentieth": {
+      "title": "Segui le Leggi Locali",
+      "description": "Assicurati che tutte le tue attività sulla piattaforma rispettino le leggi e i regolamenti locali del tuo paese e regione."
+    }
+  },
+  "notification": {
+    "friend_request_sent": "{{senderName}} ti ha inviato una richiesta di amicizia",
+    "friend_request_accepted": "{{senderName}} ha accettato la tua richiesta di amicizia",
+    "friend_request_rejected": "{{senderName}} ha rifiutato la tua richiesta di amicizia",
+    "friend_removed": "{{senderName}} ti ha rimosso dagli amici",
+    "conversation_deleted": "{{senderName}} ha eliminato la conversazione",
+    "user_blocked": "{{senderName}} ti ha bloccato",
+    "post_reaction": "{{senderName}} ha reagito al tuo post",
+    "post_commented": "{{senderName}} ha commentato il tuo post",
+    "comment_replied": "{{senderName}} ha risposto al tuo commento",
+    "letter_scheduled": "Riceverai una lettera da {{senderName}} da {{country}}"
+  },
+  "time": {
+    "just_now": "Proprio ora",
+    "minute": "un minuto fa",
+    "minutes": "minuti fa",
+    "hour": "un'ora fa",
+    "hours": "ore fa",
+    "unit_hours": "ore",
+    "today": "Oggi",
+    "yesterday": "Ieri",
+    "tomorrow": "Domani",
+    "days": "giorni fa",
+    "week": "una settimana fa",
+    "weeks": "settimane fa",
+    "month": "un mese fa",
+    "months": "mesi fa",
+    "year": "un anno fa",
+    "years": "anni fa"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "expo": {
+    "name": "WorldFriends",
+    "slug": "worldfriends",
+    "orientation": "portrait",
+    "icon": "./assets/images/logo.png",
+    "backgroundColor": "#000000",
+    "scheme": "worldfriends",
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "supportsTablet": true,
+      "infoPlist": {
+        "NSCameraUsageDescription": "This app needs access to your camera to take photos",
+        "NSPhotoLibraryUsageDescription": "This app needs access to your photo library to select and save images.",
+        "NSPhotoLibraryAddUsageDescription": "This app needs access to save photos to your photo library."
+      },
+      "bundleIdentifier": "app.worldfriends"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/foreground-icon.png",
+        "backgroundColor": "#000000"
+      },
+      "permissions": [
+        "android.permission.CAMERA",
+        "android.permission.READ_MEDIA_IMAGES",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.VIBRATE"
+      ],
+      "package": "app.worldfriends",
+      "googleServicesFile": "./google-services.json"
+    },
+    "plugins": [
+      [
+        "onesignal-expo-plugin",
+        {
+          "mode": "development"
+        }
+      ],
+      "expo-router",
+      "expo-font",
+      "expo-secure-store",
+      [
+        "expo-splash-screen",
+        {
+          "backgroundColor": "#000000",
+          "image": "./assets/images/logo.png",
+          "dark": {
+            "image": "./assets/images/logo.png",
+            "backgroundColor": "#000000"
+          },
+          "imageWidth": 180
+        }
+      ],
+      [
+        "expo-camera",
+        {
+          "cameraPermission": "Allow app to access your camera to take photos."
+        }
+      ],
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "The app accesses your photos to let you share them.",
+          "cameraPermission": "The app accesses your camera to let you take photos."
+        }
+      ],
+      [
+        "expo-build-properties",
+        {
+          "android": {
+            "enableMinifyInReleaseBuilds": true,
+            "enableShrinkResourcesInReleaseBuilds": true,
+            "enablePngCrunchInReleaseBuilds": true,
+            "enableProguardInReleaseBuilds": true
+          }
+        }
+      ]
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "ce65f00e-4922-461e-9267-e6d0e164b158"
+      }
+    }
+  }
+}
