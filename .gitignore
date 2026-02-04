@@ -17,3 +17,6 @@ google-services.json
 wf-google-services-firebase.json
 worldfriends-google-service.json
 .env
+.agent
+.amazonq
+.vscode
